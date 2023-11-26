@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+Z:\auc_project\.metadata\.plugins\org.eclipse.jdt.core
+3946071360.index
+1865797976.index
+3742324135.index
